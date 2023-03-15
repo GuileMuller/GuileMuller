@@ -9,5 +9,5 @@
 <div align="center">
 <h3> Minhas Tecnologias mais usadas </h3>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,eclipse,aws)](https://skillicons.dev)
 </div>
